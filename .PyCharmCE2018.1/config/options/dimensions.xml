@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="382" y="181" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="458" y="158" />
+    <location key="SettingsEditor.0.0.1366.768" x="160" y="4" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="475" y="229" />
+    <location key="Github.UntrackedFilesDialog.0.0.1366.768" x="5" y="53" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="114" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1366.768" x="563" y="92" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="104" y="0" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1330" height="163" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1330" height="163" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1330" height="163" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1330" height="163" />
+    <size key="Github.UntrackedFilesDialog.0.0.1366.768" width="406" height="592" />
+  </component>
+</application>

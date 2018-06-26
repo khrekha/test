@@ -1,0 +1,1309 @@
+
+Fri Aug 04 12:02:52 2017
+:: **************** Running jusched ****************
+
+Fri Aug 04 12:07:52 2017
+:: Time for a Java Update check.
+
+Fri Aug 04 12:07:52 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Fri Aug 04 12:07:54 2017
+:: No cntry-lookup tag in map.xml
+Fri Aug 04 12:07:54 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Fri Aug 04 12:07:54 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Fri Aug 04 12:07:54 2017
+:: Saving Update Descriptor XML Data
+
+Fri Aug 04 14:21:06 2017
+:: Failed to start UpdateChecker process:4
+
+Fri Aug 04 14:21:06 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Aug 06 10:17:00 2017
+
+Fri Aug 04 14:21:06 2017
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Sun Aug 06 22:55:00 2017
+
+Fri Aug 04 14:21:06 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Aug 06 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Aug 06 22:55:00 2017
+JavaUpdate [Critical]lastSchedTime=Sun Jul 30 10:17:00 2017
+JavaUpdate [Critical]nextSchedTime=Sun Aug 06 10:17:00 2017
+JavaUpdate [Critical]sleeptime (sec=158154, hours=43, days=1.83)
+actual sleep time=158154000 msecs (43:55:54) for JavaUpdate [Critical]
+
+Mon Aug 07 09:15:49 2017
+:: **************** Running jusched ****************
+
+Mon Aug 07 09:20:49 2017
+:: Time for a Java Update check.
+
+Mon Aug 07 09:20:49 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Aug 07 09:21:16 2017
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Thu Aug 24 10:17:00 2017
+
+Mon Aug 07 09:21:16 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Aug 07 12:55:00 2017
+
+Mon Aug 07 09:21:16 2017
+:: JavaUpdate NextSchedTime=Thu Aug 24 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 06 22:55:00 2017
+JavaFX: nextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: sleeptime (sec=12824, hours=3, days=0.15)
+actual sleep time=12824000 msecs (3:33:44) for JavaFX
+
+Mon Aug 07 12:55:00 2017
+:: Timeout occured.  Run JavaFX update now.
+
+Mon Aug 07 12:55:00 2017
+:: Time for JavaFX update.
+
+Mon Aug 07 12:55:00 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"")
+Mon Aug 07 12:55:00 2017
+:: Started JavaFX Update process Command:"C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"" 
+
+Mon Aug 07 12:55:00 2017
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Thu Aug 24 10:17:00 2017
+
+Mon Aug 07 12:55:00 2017
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Aug 13 22:55:00 2017
+
+Mon Aug 07 12:55:00 2017
+:: JavaUpdate NextSchedTime=Thu Aug 24 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 06 22:55:00 2017
+JavaFX: nextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: sleeptime (sec=554400, hours=154, days=6.42)
+actual sleep time=554400000 msecs (154:00:00) for JavaFX
+
+Tue Aug 08 10:39:59 2017
+:: **************** Running jusched ****************
+
+Tue Aug 08 10:44:59 2017
+:: Time for a Java Update check.
+
+Tue Aug 08 10:44:59 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Aug 08 10:45:00 2017
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Thu Aug 24 10:17:00 2017
+
+Tue Aug 08 10:45:00 2017
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Aug 13 22:55:00 2017
+
+Tue Aug 08 10:45:00 2017
+:: JavaUpdate NextSchedTime=Thu Aug 24 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 06 22:55:00 2017
+JavaFX: nextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: sleeptime (sec=475800, hours=132, days=5.51)
+actual sleep time=475800000 msecs (132:10:00) for JavaFX
+
+Wed Aug 09 10:25:13 2017
+:: **************** Running jusched ****************
+
+Wed Aug 09 10:30:13 2017
+:: Time for a Java Update check.
+
+Wed Aug 09 10:30:13 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Aug 09 10:30:13 2017
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Thu Aug 24 10:17:00 2017
+
+Wed Aug 09 10:30:14 2017
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Aug 13 22:55:00 2017
+
+Wed Aug 09 10:30:14 2017
+:: JavaUpdate NextSchedTime=Thu Aug 24 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 06 22:55:00 2017
+JavaFX: nextSchedTime=Sun Aug 13 22:55:00 2017
+JavaFX: sleeptime (sec=390286, hours=108, days=4.52)
+actual sleep time=390286000 msecs (108:24:46) for JavaFX
+
+Mon Aug 21 15:38:23 2017
+:: **************** Running jusched ****************
+
+Mon Aug 21 15:43:23 2017
+:: Time for a Java Update check.
+
+Mon Aug 21 15:43:23 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Aug 21 15:43:47 2017
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Thu Aug 24 10:17:00 2017
+
+Mon Aug 21 15:43:47 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Aug 21 19:55:00 2017
+
+Mon Aug 21 15:43:47 2017
+:: JavaUpdate NextSchedTime=Thu Aug 24 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 20 22:55:00 2017
+JavaFX: nextSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: sleeptime (sec=15073, hours=4, days=0.17)
+actual sleep time=15073000 msecs (4:11:13) for JavaFX
+
+Thu Aug 24 16:16:21 2017
+:: **************** Running jusched ****************
+
+Thu Aug 24 16:18:25 2017
+:: **************** Running jusched ****************
+
+Thu Aug 24 16:23:25 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Thu Aug 24 17:17:00 2017
+
+Thu Aug 24 16:23:25 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Thu Aug 24 17:55:00 2017
+
+Thu Aug 24 16:23:25 2017
+:: JavaUpdate NextSchedTime=Sat Sep 23 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Aug 27 22:55:00 2017
+JavaUpdatelastSchedTime=Thu Aug 24 10:17:00 2017
+JavaUpdatenextSchedTime=Sat Sep 23 10:17:00 2017
+JavaUpdatesleeptime (sec=3215, hours=0, days=0.04)
+actual sleep time=3215000 msecs (0:53:35) for JavaUpdate
+
+Thu Aug 24 17:17:00 2017
+:: Timeout occured.  Run Java update now.
+
+Thu Aug 24 17:17:00 2017
+:: Time for a Java Update check.
+
+Thu Aug 24 17:17:00 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Thu Aug 24 17:17:02 2017
+:: No cntry-lookup tag in map.xml
+Thu Aug 24 17:17:02 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Thu Aug 24 17:17:02 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Thu Aug 24 17:17:02 2017
+:: Saving Update Descriptor XML Data
+
+Thu Aug 24 17:18:04 2017
+:: Failed to start UpdateChecker process:1223
+
+Thu Aug 24 17:18:04 2017
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Sep 23 10:17:00 2017
+
+Fri Aug 25 10:56:46 2017
+:: **************** Running jusched ****************
+
+Mon Aug 28 09:25:06 2017
+:: **************** Running jusched ****************
+
+Mon Aug 28 09:30:07 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Aug 28 12:17:00 2017
+
+Mon Aug 28 09:30:07 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Aug 28 12:55:00 2017
+
+Mon Aug 28 09:30:07 2017
+:: JavaUpdate NextSchedTime=Sat Sep 23 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 03 22:55:00 2017
+JavaUpdatelastSchedTime=Thu Aug 24 10:17:00 2017
+JavaUpdatenextSchedTime=Sat Sep 23 10:17:00 2017
+JavaUpdatesleeptime (sec=10013, hours=2, days=0.12)
+actual sleep time=10013000 msecs (2:46:53) for JavaUpdate
+
+Mon Aug 28 14:04:40 2017
+:: UpdateSSV() - Begin Update
+Mon Aug 28 14:04:40 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Mon Aug 28 14:04:40 2017
+:: UpdateSSV() - Update Successful
+
+Mon Aug 28 14:04:40 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Aug 28 14:04:42 2017
+:: No cntry-lookup tag in map.xml
+Mon Aug 28 14:04:42 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Mon Aug 28 14:04:42 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Mon Aug 28 14:04:42 2017
+:: Saving Update Descriptor XML Data
+
+Mon Aug 28 14:04:43 2017
+:: Save Country Code IN after GetCountry() 
+Wed Aug 30 08:22:39 2017
+:: UpdateSSV() - Begin Update
+Wed Aug 30 08:22:39 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Wed Aug 30 08:22:39 2017
+:: UpdateSSV() - Update Successful
+
+Wed Aug 30 08:22:39 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Aug 30 08:22:42 2017
+:: No cntry-lookup tag in map.xml
+Wed Aug 30 08:22:42 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Wed Aug 30 08:22:42 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Wed Aug 30 08:22:43 2017
+:: RegQueryValueEx(VersionXmlChecksum): Error:234, ErrorCode:0
+
+Wed Aug 30 08:22:43 2017
+:: Saving Update Descriptor XML Data
+
+Wed Aug 30 08:31:59 2017
+:: UpdateSSV() - Begin Update
+Wed Aug 30 08:32:00 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Wed Aug 30 08:32:00 2017
+:: UpdateSSV() - Update Successful
+
+Wed Aug 30 08:32:00 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Aug 30 08:32:03 2017
+:: No cntry-lookup tag in map.xml
+Wed Aug 30 08:32:03 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Wed Aug 30 08:32:03 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Wed Aug 30 08:32:03 2017
+:: Saving Update Descriptor XML Data
+
+Wed Aug 30 08:32:03 2017
+:: Save Country Code IN after GetCountry() 
+Wed Aug 30 16:09:30 2017
+:: **************** Running jusched ****************
+
+Wed Aug 30 16:14:30 2017
+:: Time for a Java Update check.
+
+Wed Aug 30 16:14:31 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Aug 30 16:14:33 2017
+:: No cntry-lookup tag in map.xml
+Wed Aug 30 16:14:33 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Wed Aug 30 16:14:33 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Wed Aug 30 16:14:33 2017
+:: No Updates available
+
+Wed Aug 30 16:14:47 2017
+:: Started UpdateChecker process Successfully:C:\Program Files\Common Files\Java\Java Update\jucheck.exe
+
+Wed Aug 30 16:14:47 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 03 10:17:00 2017
+
+Wed Aug 30 16:14:47 2017
+:: UpdateSSV() - Begin Update
+Wed Aug 30 16:14:47 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Aug 30 20:55:00 2017
+
+Wed Aug 30 16:14:47 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Wed Aug 30 16:14:47 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 03 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: sleeptime (sec=16813, hours=4, days=0.19)
+actual sleep time=16813000 msecs (4:40:13) for JavaFX
+
+Wed Aug 30 16:14:48 2017
+:: UpdateSSV() - Update Successful
+
+Wed Aug 30 16:14:48 2017
+:: Registry change detected.
+
+Wed Aug 30 16:14:48 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 03 10:17:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Aug 30 20:55:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 03 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: sleeptime (sec=16812, hours=4, days=0.19)
+actual sleep time=16812000 msecs (4:40:12) for JavaFX
+
+Wed Aug 30 16:14:48 2017
+:: No cntry-lookup tag in map.xml
+Wed Aug 30 16:14:48 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Wed Aug 30 16:14:48 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Wed Aug 30 16:14:48 2017
+:: Registry change detected.
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 03 10:17:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Aug 30 20:55:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 03 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: sleeptime (sec=16812, hours=4, days=0.19)
+actual sleep time=16812000 msecs (4:40:12) for JavaFX
+
+Wed Aug 30 16:14:48 2017
+:: Registry change detected.
+
+Wed Aug 30 16:14:48 2017
+:: Saving Update Descriptor XML Data
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 03 10:17:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Aug 30 20:55:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 03 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: sleeptime (sec=16812, hours=4, days=0.19)
+actual sleep time=16812000 msecs (4:40:12) for JavaFX
+
+Wed Aug 30 16:14:48 2017
+:: Registry change detected.
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 03 10:17:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Aug 30 20:55:00 2017
+
+Wed Aug 30 16:14:48 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 03 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: sleeptime (sec=16812, hours=4, days=0.19)
+actual sleep time=16812000 msecs (4:40:12) for JavaFX
+
+Wed Aug 30 16:14:49 2017
+:: Registry change detected.
+ GetCountry() 
+Wed Aug 30 16:14:49 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 03 10:17:00 2017
+
+Wed Aug 30 16:14:49 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Aug 30 20:55:00 2017
+
+Wed Aug 30 16:14:49 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 03 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: lastSchedTime=Sun Aug 27 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: sleeptime (sec=16811, hours=4, days=0.19)
+actual sleep time=16811000 msecs (4:40:11) for JavaFX
+
+Mon Sep 04 10:54:44 2017
+:: **************** Running jusched ****************
+
+Mon Sep 04 10:59:44 2017
+:: Time for a Java Update [Critical] check.
+
+Mon Sep 04 10:59:44 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Sep 04 10:59:48 2017
+:: No cntry-lookup tag in map.xml
+Mon Sep 04 10:59:48 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Mon Sep 04 10:59:48 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Mon Sep 04 10:59:48 2017
+:: No Updates available
+
+Mon Sep 04 17:19:18 2017
+:: Failed to start UpdateChecker process:4
+
+Mon Sep 04 17:19:18 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 10 10:17:00 2017
+
+Mon Sep 04 17:19:18 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Sep 04 19:55:00 2017
+
+Mon Sep 04 17:19:18 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 10 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 10 22:55:00 2017
+JavaFX: lastSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 10 22:55:00 2017
+JavaFX: sleeptime (sec=9342, hours=2, days=0.11)
+actual sleep time=9342000 msecs (2:35:42) for JavaFX
+
+Tue Sep 05 13:57:45 2017
+:: **************** Running jusched ****************
+
+Tue Sep 05 14:03:49 2017
+:: Failed to start UpdateChecker process:1223
+
+Tue Sep 05 14:03:49 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 10 10:17:00 2017
+
+Wed Sep 06 14:28:06 2017
+:: **************** Running jusched ****************
+
+Wed Sep 06 17:03:03 2017
+:: Failed to start UpdateChecker process:4
+
+Wed Sep 06 17:03:03 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Sep 10 10:17:00 2017
+
+Wed Sep 06 17:03:03 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Sep 06 20:55:00 2017
+
+Wed Sep 06 17:03:03 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Sep 10 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Sep 10 22:55:00 2017
+JavaFX: lastSchedTime=Sun Sep 03 22:55:00 2017
+JavaFX: nextSchedTime=Sun Sep 10 22:55:00 2017
+JavaFX: sleeptime (sec=13917, hours=3, days=0.16)
+actual sleep time=13917000 msecs (3:51:57) for JavaFX
+
+Fri Sep 22 08:39:24 2017
+:: **************** Running jusched ****************
+
+Fri Sep 22 08:44:24 2017
+:: Time for a Java Update [Critical] check.
+
+Fri Sep 22 08:44:24 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Fri Sep 22 08:45:09 2017
+:: Failed to start UpdateChecker process:1223
+
+Fri Sep 22 08:45:09 2017
+:: JavaUpdate  [Critical] :  Current time is >4 days past last scheduled time, sleeping until next schedule Time: Sun Sep 24 10:17:00 2017
+
+Mon Oct 09 13:37:55 2017
+:: **************** Running jusched ****************
+
+Mon Oct 09 13:42:56 2017
+:: Time for a Java Update check.
+
+Mon Oct 09 13:42:56 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Oct 09 13:42:58 2017
+:: No cntry-lookup tag in map.xml
+Mon Oct 09 13:42:58 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Mon Oct 09 13:42:58 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Mon Oct 09 13:42:58 2017
+:: No Updates available
+
+Mon Oct 09 16:03:43 2017
+:: Failed to start UpdateChecker process:4
+
+Mon Oct 09 16:03:43 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Oct 15 10:17:00 2017
+
+Mon Oct 09 16:03:43 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Oct 09 19:55:00 2017
+
+Mon Oct 09 16:03:43 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Oct 15 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: lastSchedTime=Sun Oct 08 22:55:00 2017
+JavaFX: nextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: sleeptime (sec=13877, hours=3, days=0.16)
+actual sleep time=13877000 msecs (3:51:17) for JavaFX
+
+Wed Oct 11 13:02:27 2017
+:: **************** Running jusched ****************
+
+Wed Oct 11 16:04:55 2017
+:: Started UpdateChecker process Successfully:C:\Program Files\Common Files\Java\Java Update\jucheck.exe
+
+Wed Oct 11 16:04:55 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Oct 15 10:17:00 2017
+
+Wed Oct 11 16:04:55 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Oct 11 20:55:00 2017
+
+Wed Oct 11 16:04:55 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Oct 15 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: lastSchedTime=Sun Oct 08 22:55:00 2017
+JavaFX: nextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: sleeptime (sec=17405, hours=4, days=0.20)
+actual sleep time=17405000 msecs (4:50:05) for JavaFX
+
+Wed Oct 11 16:04:55 2017
+:: UpdateSSV() - Begin Update
+Wed Oct 11 16:04:55 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Wed Oct 11 16:04:56 2017
+:: UpdateSSV() - Update Successful
+
+Wed Oct 11 16:04:56 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Oct 11 16:04:56 2017
+:: No cntry-lookup tag in map.xml
+Wed Oct 11 16:04:56 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Wed Oct 11 16:04:56 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/090f390dda5b47b9b721c7dfaa008135/au-descriptor-1.8.0_144-b01.xml
+Wed Oct 11 16:04:56 2017
+:: Registry change detected.
+
+Wed Oct 11 16:04:56 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Oct 15 10:17:00 2017
+
+Wed Oct 11 16:04:56 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Oct 11 20:55:00 2017
+
+Wed Oct 11 16:04:56 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Oct 15 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: lastSchedTime=Sun Oct 08 22:55:00 2017
+JavaFX: nextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: sleeptime (sec=17404, hours=4, days=0.20)
+actual sleep time=17404000 msecs (4:50:04) for JavaFX
+
+Wed Oct 11 16:04:57 2017
+:: RegQueryValueEx(VersionXmlChecksum): Error:234, ErrorCode:0
+
+Wed Oct 11 16:04:57 2017
+:: Saving Update Descriptor XML Data
+
+Wed Oct 11 16:04:57 2017
+:: Registry change detected.
+
+Wed Oct 11 16:04:57 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Oct 15 10:17:00 2017
+
+Wed Oct 11 16:04:57 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Oct 11 20:55:00 2017
+
+Wed Oct 11 16:04:57 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Oct 15 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: lastSchedTime=Sun Oct 08 22:55:00 2017
+JavaFX: nextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: sleeptime (sec=17403, hours=4, days=0.20)
+actual sleep time=17403000 msecs (4:50:03) for JavaFX
+
+Thu Oct 12 14:31:58 2017
+:: **************** Running jusched ****************
+
+Thu Oct 12 16:49:58 2017
+:: Failed to start UpdateChecker process:4
+
+Thu Oct 12 16:49:58 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Oct 15 10:17:00 2017
+
+Thu Oct 12 16:49:58 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Thu Oct 12 17:55:00 2017
+
+Thu Oct 12 16:49:58 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Oct 15 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: lastSchedTime=Sun Oct 08 22:55:00 2017
+JavaFX: nextSchedTime=Sun Oct 15 22:55:00 2017
+JavaFX: sleeptime (sec=3902, hours=1, days=0.05)
+actual sleep time=3902000 msecs (1:05:02) for JavaFX
+
+Tue Oct 17 13:10:00 2017
+:: **************** Running jusched ****************
+
+Tue Oct 17 13:15:01 2017
+:: Time for a Java Update [Critical] check.
+
+Tue Oct 17 13:15:01 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Oct 17 15:07:41 2017
+:: Failed to start UpdateChecker process:1223
+
+Tue Oct 17 15:07:41 2017
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Oct 17 18:17:00 2017
+
+Wed Oct 18 13:10:33 2017
+:: **************** Running jusched ****************
+
+Wed Oct 18 13:15:33 2017
+:: Time for a Java Update [Critical] check.
+
+Wed Oct 18 13:15:33 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Oct 18 13:18:19 2017
+:: Failed to start UpdateChecker process:1223
+
+Wed Oct 18 13:18:19 2017
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Oct 18 15:17:00 2017
+
+Tue Oct 24 07:33:49 2017
+:: **************** Running jusched ****************
+
+Tue Oct 24 07:38:49 2017
+:: Time for a Java Update [Critical] check.
+
+Tue Oct 24 07:38:49 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Oct 24 09:12:10 2017
+:: Failed to start UpdateChecker process:4
+
+Tue Oct 24 09:12:10 2017
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Oct 24 11:17:00 2017
+
+Tue Oct 24 09:12:10 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Oct 24 09:55:00 2017
+
+Tue Oct 24 09:12:10 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Oct 29 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Oct 29 22:55:00 2017
+JavaFX: lastSchedTime=Sun Oct 22 22:55:00 2017
+JavaFX: nextSchedTime=Sun Oct 29 22:55:00 2017
+JavaFX: sleeptime (sec=2570, hours=0, days=0.03)
+actual sleep time=2570000 msecs (0:42:50) for JavaFX
+
+Tue Oct 24 13:58:34 2017
+:: **************** Running jusched ****************
+
+Tue Oct 24 14:57:04 2017
+:: Failed to start UpdateChecker process:1223
+
+Tue Oct 24 14:57:04 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Oct 24 17:17:00 2017
+
+Fri Nov 03 14:20:17 2017
+:: **************** Running jusched ****************
+
+Fri Nov 03 14:25:17 2017
+:: Time for a Java Update check.
+
+Fri Nov 03 14:25:17 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Fri Nov 03 14:25:19 2017
+:: No cntry-lookup tag in map.xml
+Fri Nov 03 14:25:19 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Fri Nov 03 14:25:19 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/e758a0de34e24606bca991d704f6dcbf/au-descriptor-1.8.0_151-b12.xml
+Fri Nov 03 14:25:19 2017
+:: RegQueryValueEx(VersionXmlChecksum): Error:234, ErrorCode:0
+
+Fri Nov 03 14:25:19 2017
+:: Saving Update Descriptor XML Data
+
+Fri Nov 03 14:26:02 2017
+:: Failed to start UpdateChecker process:1223
+
+Fri Nov 03 14:26:02 2017
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Fri Nov 24 10:17:00 2017
+
+Sun Nov 05 08:40:53 2017
+:: **************** Running jusched ****************
+
+Sun Nov 05 08:47:12 2017
+:: Failed to start UpdateChecker process:1223
+
+Sun Nov 05 08:47:12 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 05 10:17:00 2017
+
+Sun Nov 05 10:17:00 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Sun Nov 05 10:17:43 2017
+:: Failed to start UpdateChecker process:1223
+
+Sun Nov 05 10:17:43 2017
+:: JavaUpdate:  nextSchedTime has passed.  Setting sleeptime to 12 hours.
+
+Mon Nov 06 13:33:51 2017
+:: **************** Running jusched ****************
+
+Mon Nov 06 13:38:51 2017
+:: Time for a Java Update [Critical] check.
+
+Mon Nov 06 13:38:51 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Nov 06 16:07:32 2017
+:: Failed to start UpdateChecker process:4
+
+Mon Nov 06 16:07:32 2017
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Nov 06 21:17:00 2017
+
+Mon Nov 06 16:07:32 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Nov 06 19:55:00 2017
+
+Mon Nov 06 16:07:32 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Nov 12 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: lastSchedTime=Sun Nov 05 22:55:00 2017
+JavaFX: nextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: sleeptime (sec=13648, hours=3, days=0.16)
+actual sleep time=13648000 msecs (3:47:28) for JavaFX
+
+Tue Nov 07 13:14:33 2017
+:: **************** Running jusched ****************
+
+Tue Nov 07 13:19:35 2017
+:: Time for a Java Update [Critical] check.
+
+Tue Nov 07 13:19:35 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Nov 07 13:19:37 2017
+:: No cntry-lookup tag in map.xml
+Tue Nov 07 13:19:37 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Tue Nov 07 13:19:37 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/e758a0de34e24606bca991d704f6dcbf/au-descriptor-1.8.0_151-b12.xml
+Tue Nov 07 13:19:37 2017
+:: No Updates available
+
+Tue Nov 07 16:07:33 2017
+:: Started UpdateChecker process Successfully:C:\Program Files\Common Files\Java\Java Update\jucheck.exe
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 10:17:00 2017
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Nov 07 16:55:00 2017
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Nov 12 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: lastSchedTime=Sun Nov 05 22:55:00 2017
+JavaFX: nextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: sleeptime (sec=2847, hours=0, days=0.03)
+actual sleep time=2847000 msecs (0:47:27) for JavaFX
+
+Tue Nov 07 16:07:33 2017
+:: UpdateSSV() - Begin Update
+Tue Nov 07 16:07:33 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Tue Nov 07 16:07:33 2017
+:: UpdateSSV() - Update Successful
+
+Tue Nov 07 16:07:33 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Nov 07 16:07:33 2017
+:: Registry change detected.
+
+Tue Nov 07 16:07:33 2017
+:: New Update Descriptor URL Detected
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 10:17:00 2017
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Nov 07 16:55:00 2017
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Nov 12 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: lastSchedTime=Sun Nov 05 22:55:00 2017
+JavaFX: nextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: sleeptime (sec=2847, hours=0, days=0.03)
+actual sleep time=2847000 msecs (0:47:27) for JavaFX
+
+Tue Nov 07 16:07:33 2017
+:: Registry change detected.
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 10:17:00 2017
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Nov 07 16:55:00 2017
+
+Tue Nov 07 16:07:33 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Nov 12 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: lastSchedTime=Sun Nov 05 22:55:00 2017
+JavaFX: nextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: sleeptime (sec=2847, hours=0, days=0.03)
+actual sleep time=2847000 msecs (0:47:27) for JavaFX
+
+Wed Nov 08 13:10:04 2017
+:: **************** Running jusched ****************
+
+Wed Nov 08 13:15:04 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 10:17:00 2017
+
+Wed Nov 08 13:15:04 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Nov 08 13:55:00 2017
+
+Wed Nov 08 13:15:04 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Nov 12 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: lastSchedTime=Sun Nov 05 22:55:00 2017
+JavaFX: nextSchedTime=Sun Nov 12 22:55:00 2017
+JavaFX: sleeptime (sec=2396, hours=0, days=0.03)
+actual sleep time=2396000 msecs (0:39:56) for JavaFX
+
+Wed Nov 08 13:55:00 2017
+:: Timeout occured.  Run JavaFX update now.
+
+Wed Nov 08 13:55:00 2017
+:: Time for JavaFX update.
+
+Wed Nov 08 13:55:00 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"")
+Wed Nov 08 13:55:00 2017
+:: Started JavaFX Update process Command:"C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"" 
+
+Wed Nov 08 13:55:00 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 10:17:00 2017
+
+Wed Nov 08 13:55:00 2017
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 22:55:00 2017
+
+Wed Nov 08 13:55:00 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Nov 12 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Nov 12 22:55:00 2017
+JavaUpdate [Critical]lastSchedTime=Sun Nov 05 10:17:00 2017
+JavaUpdate [Critical]nextSchedTime=Sun Nov 12 10:17:00 2017
+JavaUpdate [Critical]sleeptime (sec=332520, hours=92, days=3.85)
+actual sleep time=332520000 msecs (92:22:00) for JavaUpdate [Critical]
+
+Sat Nov 11 10:36:57 2017
+:: **************** Running jusched ****************
+
+Sat Nov 11 10:41:57 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 10:17:00 2017
+
+Sat Nov 11 10:41:57 2017
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Nov 12 22:55:00 2017
+
+Sat Nov 11 10:41:57 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Nov 12 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Nov 12 22:55:00 2017
+JavaUpdate [Critical]lastSchedTime=Sun Nov 05 10:17:00 2017
+JavaUpdate [Critical]nextSchedTime=Sun Nov 12 10:17:00 2017
+JavaUpdate [Critical]sleeptime (sec=84903, hours=23, days=0.98)
+actual sleep time=84903000 msecs (23:35:03) for JavaUpdate [Critical]
+
+Wed Dec 06 13:43:47 2017
+:: **************** Running jusched ****************
+
+Wed Dec 06 13:48:48 2017
+:: Time for a Java Update check.
+
+Wed Dec 06 13:48:48 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Dec 06 13:48:50 2017
+:: No cntry-lookup tag in map.xml
+Wed Dec 06 13:48:50 2017
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Wed Dec 06 13:48:50 2017
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/e758a0de34e24606bca991d704f6dcbf/au-descriptor-1.8.0_151-b12.xml
+Wed Dec 06 13:48:51 2017
+:: Saving Update Descriptor XML Data
+
+Wed Dec 06 16:31:22 2017
+:: Failed to start UpdateChecker process:4
+
+Wed Dec 06 16:31:22 2017
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Dec 10 10:17:00 2017
+
+Wed Dec 06 16:31:22 2017
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Wed Dec 06 20:55:00 2017
+
+Wed Dec 06 16:31:22 2017
+:: JavaUpdate [Critical] NextSchedTime=Sun Dec 10 10:17:00 2017
+JavaFXUpdate NextSchedTime=Sun Dec 10 22:55:00 2017
+JavaFX: lastSchedTime=Sun Dec 03 22:55:00 2017
+JavaFX: nextSchedTime=Sun Dec 10 22:55:00 2017
+JavaFX: sleeptime (sec=15818, hours=4, days=0.18)
+actual sleep time=15818000 msecs (4:23:38) for JavaFX
+
+Mon Dec 11 15:45:13 2017
+:: UpdateSSV() - Begin Update
+Mon Dec 11 15:45:14 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Mon Dec 11 15:45:14 2017
+:: UpdateSSV() - Update Successful
+
+Mon Dec 11 15:45:14 2017
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Jan 09 09:24:18 2018
+:: **************** Running jusched ****************
+
+Tue Jan 09 09:30:16 2018
+:: Time for a Java Update check.
+
+Tue Jan 09 09:30:16 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Jan 09 09:30:17 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:30:17 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Jan 09 09:55:00 2018
+
+Tue Jan 09 09:30:17 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=1483, hours=0, days=0.02)
+actual sleep time=1483000 msecs (0:24:43) for JavaFX
+
+Tue Jan 09 09:45:52 2018
+:: Registry change detected.
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Jan 09 09:55:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=548, hours=0, days=0.01)
+actual sleep time=548000 msecs (0:09:08) for JavaFX
+
+Tue Jan 09 09:45:52 2018
+:: Registry change detected.
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Jan 09 09:55:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=548, hours=0, days=0.01)
+actual sleep time=548000 msecs (0:09:08) for JavaFX
+
+Tue Jan 09 09:45:52 2018
+:: Registry change detected.
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Jan 09 09:55:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=548, hours=0, days=0.01)
+actual sleep time=548000 msecs (0:09:08) for JavaFX
+
+Tue Jan 09 09:45:52 2018
+:: Registry change detected.
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Jan 09 09:55:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=548, hours=0, days=0.01)
+actual sleep time=548000 msecs (0:09:08) for JavaFX
+
+Tue Jan 09 09:45:52 2018
+:: Registry change detected.
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Jan 09 09:55:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=548, hours=0, days=0.01)
+actual sleep time=548000 msecs (0:09:08) for JavaFX
+
+Tue Jan 09 09:45:52 2018
+:: Registry change detected.
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Jan 09 09:55:00 2018
+
+Tue Jan 09 09:45:52 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=548, hours=0, days=0.01)
+actual sleep time=548000 msecs (0:09:08) for JavaFX
+
+Tue Jan 09 09:55:00 2018
+:: Timeout occured.  Run JavaFX update now.
+
+Tue Jan 09 09:55:00 2018
+:: Time for JavaFX update.
+
+Tue Jan 09 09:55:00 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"")
+Tue Jan 09 09:55:00 2018
+:: Started JavaFX Update process Command:"C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"" 
+
+Tue Jan 09 09:55:00 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Tue Jan 09 09:55:00 2018
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Jan 14 22:55:00 2018
+
+Tue Jan 09 09:55:00 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=478800, hours=133, days=5.54)
+actual sleep time=478800000 msecs (133:00:00) for JavaFX
+
+Wed Jan 10 10:52:41 2018
+:: **************** Running jusched ****************
+
+Wed Jan 10 10:57:41 2018
+:: Time for a Java Update check.
+
+Wed Jan 10 10:57:41 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Jan 10 10:57:42 2018
+:: JavaUpdate : Current time is >4 days past last scheduled time, sleeping until next schedule Time: Wed Jan 24 10:17:00 2018
+
+Wed Jan 10 10:57:42 2018
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Jan 14 22:55:00 2018
+
+Wed Jan 10 10:57:42 2018
+:: JavaUpdate NextSchedTime=Wed Jan 24 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: lastSchedTime=Sun Jan 07 22:55:00 2018
+JavaFX: nextSchedTime=Sun Jan 14 22:55:00 2018
+JavaFX: sleeptime (sec=388638, hours=107, days=4.50)
+actual sleep time=388638000 msecs (107:57:18) for JavaFX
+
+Mon Feb 05 10:50:26 2018
+:: **************** Running jusched ****************
+
+Mon Feb 05 10:55:26 2018
+:: Time for a Java Update check.
+
+Mon Feb 05 10:55:26 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Feb 05 10:55:29 2018
+:: No cntry-lookup tag in map.xml
+Mon Feb 05 10:55:29 2018
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Mon Feb 05 10:55:29 2018
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/2f38c3b165be4555a1fa6e98c45e0808/au-descriptor-1.8.0_161-b12.xml
+Mon Feb 05 10:55:29 2018
+:: RegQueryValueEx(VersionXmlChecksum): Error:234, ErrorCode:0
+
+Mon Feb 05 10:55:29 2018
+:: Saving Update Descriptor XML Data
+
+Mon Feb 05 10:56:33 2018
+:: Failed to start UpdateChecker process:1223
+
+Mon Feb 05 10:56:33 2018
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Feb 24 10:17:00 2018
+
+Tue Feb 06 10:12:43 2018
+:: **************** Running jusched ****************
+
+Tue Feb 06 15:43:23 2018
+:: Started UpdateChecker process Successfully:C:\Program Files\Common Files\Java\Java Update\jucheck.exe
+
+Tue Feb 06 15:43:23 2018
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Feb 11 10:17:00 2018
+
+Tue Feb 06 15:43:23 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Tue Feb 06 16:55:00 2018
+
+Tue Feb 06 15:43:23 2018
+:: JavaUpdate [Critical] NextSchedTime=Sun Feb 11 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Feb 11 22:55:00 2018
+JavaFX: lastSchedTime=Sun Feb 04 22:55:00 2018
+JavaFX: nextSchedTime=Sun Feb 11 22:55:00 2018
+JavaFX: sleeptime (sec=4297, hours=1, days=0.05)
+actual sleep time=4297000 msecs (1:11:37) for JavaFX
+
+Tue Feb 06 15:43:23 2018
+:: UpdateSSV() - Begin Update
+Tue Feb 06 15:43:23 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe" -SSVBaselineUpdate)
+Tue Feb 06 15:43:23 2018
+:: UpdateSSV() - Update Successful
+
+Tue Feb 06 15:43:23 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Wed Feb 07 09:36:10 2018
+:: **************** Running jusched ****************
+
+Mon Mar 12 10:58:37 2018
+:: **************** Running jusched ****************
+
+Mon Mar 12 11:03:55 2018
+:: **************** Running jusched ****************
+
+Mon Mar 12 11:08:56 2018
+:: Time for a Java Update [Critical] check.
+
+Mon Mar 12 11:08:56 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Mar 12 11:08:56 2018
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Mar 12 14:17:00 2018
+
+Mon Mar 12 11:08:56 2018
+:: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Mar 12 12:55:00 2018
+
+Mon Mar 12 11:08:56 2018
+:: JavaUpdate [Critical] NextSchedTime=Sun Mar 18 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Mar 18 22:55:00 2018
+JavaFX: lastSchedTime=Sun Mar 11 22:55:00 2018
+JavaFX: nextSchedTime=Sun Mar 18 22:55:00 2018
+JavaFX: sleeptime (sec=6364, hours=1, days=0.07)
+actual sleep time=6364000 msecs (1:46:04) for JavaFX
+
+Mon Mar 12 12:55:00 2018
+:: Timeout occured.  Run JavaFX update now.
+
+Mon Mar 12 12:55:00 2018
+:: Time for JavaFX update.
+
+Mon Mar 12 12:55:00 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\javaws.exe, "C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"")
+Mon Mar 12 12:55:00 2018
+:: Started JavaFX Update process Command:"C:\Program Files\Java\jre7\bin\javaws.exe"  -silent -import -reverse -javafxau -system -J-Dkernel.download.dialog=false ""http://dl.javafx.com/javafx-cache.jnlp"" 
+
+Mon Mar 12 12:55:00 2018
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Mar 12 14:17:00 2018
+
+Mon Mar 12 12:55:00 2018
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Mar 18 22:55:00 2018
+
+Mon Mar 12 12:55:00 2018
+:: JavaUpdate [Critical] NextSchedTime=Sun Mar 18 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Mar 18 22:55:00 2018
+JavaUpdate [Critical]lastSchedTime=Sun Mar 11 10:17:00 2018
+JavaUpdate [Critical]nextSchedTime=Sun Mar 18 10:17:00 2018
+JavaUpdate [Critical]sleeptime (sec=4920, hours=1, days=0.06)
+actual sleep time=4920000 msecs (1:22:00) for JavaUpdate [Critical]
+
+Mon Mar 12 14:17:00 2018
+:: Timeout occured.  Run Java update [Critical] now.
+
+Mon Mar 12 14:17:00 2018
+:: Time for a Java Update [Critical] check.
+
+Mon Mar 12 14:17:00 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Mar 12 14:17:00 2018
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Mar 12 14:17:00 2018
+
+Mon Mar 12 14:17:00 2018
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Mar 18 22:55:00 2018
+
+Mon Mar 12 14:17:00 2018
+:: JavaUpdate [Critical] NextSchedTime=Sun Mar 18 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Mar 18 22:55:00 2018
+JavaUpdate [Critical]lastSchedTime=Sun Mar 11 10:17:00 2018
+JavaUpdate [Critical]nextSchedTime=Sun Mar 18 10:17:00 2018
+JavaUpdate [Critical]sleeptime (sec=0, hours=0, days=0.00)
+actual sleep time=0 msecs (0:00:00) for JavaUpdate [Critical]
+
+Mon Mar 12 14:17:00 2018
+:: Timeout occured.  Run Java update [Critical] now.
+
+Mon Mar 12 14:17:00 2018
+:: Time for a Java Update [Critical] check.
+
+Mon Mar 12 14:17:00 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Mar 12 14:17:00 2018
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Mar 12 14:17:00 2018
+
+Mon Mar 12 14:17:00 2018
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Mar 18 22:55:00 2018
+
+Mon Mar 12 14:17:00 2018
+:: JavaUpdate [Critical] NextSchedTime=Sun Mar 18 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Mar 18 22:55:00 2018
+JavaUpdate [Critical]lastSchedTime=Sun Mar 11 10:17:00 2018
+JavaUpdate [Critical]nextSchedTime=Sun Mar 18 10:17:00 2018
+JavaUpdate [Critical]sleeptime (sec=0, hours=0, days=0.00)
+actual sleep time=0 msecs (0:00:00) for JavaUpdate [Critical]
+
+Mon Mar 12 14:17:00 2018
+:: Timeout occured.  Run Java update [Critical] now.
+
+Mon Mar 12 14:17:00 2018
+:: Time for a Java Update [Critical] check.
+
+Mon Mar 12 14:17:00 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Mon Mar 12 14:17:01 2018
+:: JavaUpdate  [Critical] :  Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Mon Mar 12 21:17:00 2018
+
+Mon Mar 12 14:17:01 2018
+:: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Mar 18 22:55:00 2018
+
+Mon Mar 12 14:17:01 2018
+:: JavaUpdate [Critical] NextSchedTime=Sun Mar 18 10:17:00 2018
+JavaFXUpdate NextSchedTime=Sun Mar 18 22:55:00 2018
+JavaUpdate [Critical]lastSchedTime=Sun Mar 11 10:17:00 2018
+JavaUpdate [Critical]nextSchedTime=Sun Mar 18 10:17:00 2018
+JavaUpdate [Critical]sleeptime (sec=25199, hours=6, days=0.29)
+actual sleep time=25199000 msecs (6:59:59) for JavaUpdate [Critical]
+
+Tue Mar 13 10:37:01 2018
+:: **************** Running jusched ****************
+
+Tue Mar 13 10:42:01 2018
+:: Time for a Java Update [Critical] check.
+
+Tue Mar 13 10:42:01 2018
+:: Safe_CreateProcess(C:\Program Files\Java\jre7\bin\java.exe, "C:\Program Files\Java\jre7\bin\java.exe" -fullversion)
+Tue Mar 13 10:42:04 2018
+:: No cntry-lookup tag in map.xml
+Tue Mar 13 10:42:04 2018
+:: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:i586,Version:1.7.0_25-b17,Locale:en,Cntry:YY
+
+Tue Mar 13 10:42:04 2018
+:: https://javadl-esd-secure.oracle.com/update/1.8.0/2f38c3b165be4555a1fa6e98c45e0808/au-descriptor-1.8.0_161-b12.xml
+Tue Mar 13 10:42:04 2018
+:: Saving Update Descriptor XML Data
+
+Tue Mar 13 10:43:08 2018
+:: Failed to start UpdateChecker process:1223
+
+Tue Mar 13 10:43:08 2018
+:: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Mar 18 10:17:00 2018

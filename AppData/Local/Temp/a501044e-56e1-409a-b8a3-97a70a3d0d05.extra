@@ -1,0 +1,27 @@
+ServerURL=https://crash-reports.mozilla.com/submit?id={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&version=60.0.2&buildid=20180605171542
+StartupTime=1529924514
+SafeMode=0
+ProductName=Firefox
+Vendor=Mozilla
+InstallTime=1529919618
+CPUMicrocodeVersion=0x1a
+ReleaseChannel=release
+Version=60.0.2
+AppInitDLLs=%ProgramFiles%\\Sophos\\Sophos Anti-Virus\\sophos_detoured.dll
+StartupCrash=1
+BuildID=20180605171542
+ProductID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+CrashTime=1529924562
+UptimeTS=1348.077744657
+BreakpadReserveAddress=37552128
+BreakpadReserveSize=83886080
+BlockedDllList=
+SystemMemoryUsePercentage=96
+TotalVirtualMemory=2147352576
+AvailableVirtualMemory=1995501568
+TotalPageFile=12517781504
+AvailablePageFile=5181440
+TotalPhysicalMemory=3129884672
+AvailablePhysicalMemory=100229120
+MozCrashReason=js::wasm::InitInstanceStaticData() failed
+ThreadIdNameMapping=22412:"Gecko_IOThread",

@@ -1,0 +1,6 @@
+2017-08-17 10:12:49| VMInst-build-1895310| Begin Logging
+2017-08-17 10:12:49| VMInst-build-1895310| --- CA exec: VMSafeToInstallNetworkComponents
+2017-08-17 10:12:49| VMInst-build-1895310| CWD[C:\Users\test\AppData\Local\Temp\vmware_1502944964\]
+2017-08-17 10:12:49| VMInst-build-1895310| VNL_SafeToInstallNetworkComponents returned VNL_STATUS_OK(0)
+2017-08-17 10:12:49| VMInst-build-1895310| Freeing library: 1474625536
+2017-08-17 10:12:49| VMInst-build-1895310| End Logging

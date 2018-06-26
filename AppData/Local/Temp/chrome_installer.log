@@ -1,0 +1,46 @@
+[0626/152658.672:VERBOSE1:setup_main.cc(1325)] Command Line: "C:\Users\test\AppData\Local\Temp\CR_7B165.tmp\setup.exe" --install-archive="C:\Users\test\AppData\Local\Temp\CR_7B165.tmp\CHROME.PACKED.7Z" --verbose-logging --do-not-launch-chrome --system-level /installerdata="C:\Windows\TEMP\gui1CA.tmp"
+[0626/152658.672:VERBOSE1:setup_main.cc(1331)] system install is 1
+[0626/152658.695:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0626/152658.695:VERBOSE1:setup_main.cc(1339)] is_migrating_to_single is 0
+[0626/152701.820:VERBOSE1:install_util.cc(219)] Windows NT 6.1.7601 SP1
+[0626/152701.824:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0626/152701.824:VERBOSE1:setup_main.cc(668)] Installing to C:\Program Files\Google\Chrome\Application
+[0626/152701.859:VERBOSE1:setup_main.cc(551)] Created path C:\Program Files\Google\Chrome\Temp
+[0626/152701.862:VERBOSE1:setup_main.cc(1091)] Installing Chrome from compressed archive C:\Users\test\AppData\Local\Temp\CR_7B165.tmp\CHROME.PACKED.7Z
+[0626/152701.862:VERBOSE1:lzma_util.cc(110)] Opening archive C:\Users\test\AppData\Local\Temp\CR_7B165.tmp\CHROME.PACKED.7Z
+[0626/152701.863:VERBOSE1:lzma_util.cc(116)] Uncompressing archive to path C:\Program Files\Google\Chrome\Temp\source8120_25207
+[0626/152711.517:VERBOSE1:lzma_util.cc(110)] Opening archive C:\Program Files\Google\Chrome\Temp\source8120_25207\chrome.7z
+[0626/152711.517:VERBOSE1:lzma_util.cc(116)] Uncompressing archive to path C:\Program Files\Google\Chrome\Temp\source8120_25207
+[0626/152721.347:VERBOSE1:setup_main.cc(1150)] unpacked to C:\Program Files\Google\Chrome\Temp\source8120_25207
+[0626/152721.347:VERBOSE1:setup_util.cc(352)] Looking for Chrome version folder under C:\Program Files\Google\Chrome\Temp\source8120_25207\Chrome-bin
+[0626/152721.348:VERBOSE1:setup_util.cc(363)] directory found: 67.0.3396.99
+[0626/152721.348:VERBOSE1:setup_main.cc(1161)] version to install: 67.0.3396.99
+[0626/152721.348:ERROR:setup_main.cc(1170)] Higher version of Google Chrome is already installed.
+[0626/152721.348:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Write Installer Result
+[0626/152721.354:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Write Installer Result
+[0626/152721.354:VERBOSE1:setup_main.cc(1278)] Deleting temporary directory C:\Program Files\Google\Chrome\Temp
+[0626/152721.576:VERBOSE1:google_update_settings.cc(488)] Removed incremental installer failure key; switching to channel: stable-arch_x86-statsdef_1
+[0626/152721.577:VERBOSE1:setup_main.cc(1507)] Installation complete, returning: 4
+[0626/161300.363:VERBOSE1:setup_main.cc(1325)] Command Line: "C:\Users\test\AppData\Local\Temp\CR_957CB.tmp\setup.exe" --install-archive="C:\Users\test\AppData\Local\Temp\CR_957CB.tmp\CHROME.PACKED.7Z" --verbose-logging --do-not-launch-chrome --system-level /installerdata="C:\Windows\TEMP\gui1645.tmp"
+[0626/161300.378:VERBOSE1:setup_main.cc(1331)] system install is 1
+[0626/161300.379:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0626/161300.379:VERBOSE1:setup_main.cc(1339)] is_migrating_to_single is 0
+[0626/161303.852:VERBOSE1:install_util.cc(219)] Windows NT 6.1.7601 SP1
+[0626/161303.856:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0626/161303.856:VERBOSE1:setup_main.cc(668)] Installing to C:\Program Files\Google\Chrome\Application
+[0626/161303.859:VERBOSE1:setup_main.cc(551)] Created path C:\Program Files\Google\Chrome\Temp
+[0626/161303.860:VERBOSE1:setup_main.cc(1091)] Installing Chrome from compressed archive C:\Users\test\AppData\Local\Temp\CR_957CB.tmp\CHROME.PACKED.7Z
+[0626/161303.861:VERBOSE1:lzma_util.cc(110)] Opening archive C:\Users\test\AppData\Local\Temp\CR_957CB.tmp\CHROME.PACKED.7Z
+[0626/161303.861:VERBOSE1:lzma_util.cc(116)] Uncompressing archive to path C:\Program Files\Google\Chrome\Temp\source7080_13924
+[0626/161313.463:VERBOSE1:lzma_util.cc(110)] Opening archive C:\Program Files\Google\Chrome\Temp\source7080_13924\chrome.7z
+[0626/161313.463:VERBOSE1:lzma_util.cc(116)] Uncompressing archive to path C:\Program Files\Google\Chrome\Temp\source7080_13924
+[0626/161321.182:VERBOSE1:setup_main.cc(1150)] unpacked to C:\Program Files\Google\Chrome\Temp\source7080_13924
+[0626/161321.182:VERBOSE1:setup_util.cc(352)] Looking for Chrome version folder under C:\Program Files\Google\Chrome\Temp\source7080_13924\Chrome-bin
+[0626/161321.184:VERBOSE1:setup_util.cc(363)] directory found: 67.0.3396.99
+[0626/161321.184:VERBOSE1:setup_main.cc(1161)] version to install: 67.0.3396.99
+[0626/161321.184:ERROR:setup_main.cc(1170)] Higher version of Google Chrome is already installed.
+[0626/161321.184:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Write Installer Result
+[0626/161321.190:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Write Installer Result
+[0626/161321.190:VERBOSE1:setup_main.cc(1278)] Deleting temporary directory C:\Program Files\Google\Chrome\Temp
+[0626/161321.411:VERBOSE1:google_update_settings.cc(488)] Removed incremental installer failure key; switching to channel: stable-arch_x86-statsdef_1
+[0626/161321.412:VERBOSE1:setup_main.cc(1507)] Installation complete, returning: 4

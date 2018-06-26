@@ -1,0 +1,15 @@
+** Start WINAPI GetLogFileName **
+** Start WINAPI RemovePackFiles **
+** Start WINAPI InstallJava: 1 **
+** End WINAPI InstallJava **
+** Start WINAPI GetLogFileName **
+** Start WINAPI InstallJava: 0 **
+-- Start in InstallJavaJREBrowserSettings --
+-- Start in RegJava2IExplorerDefault --
+-- End in RegJava2IExplorerDefault, return TRUE --
+-- Start in RegJava2BrowserDefault 0 --
+-- Start in RegJava2BrowserDefault 1 --
+-- Start in RegJava2BrowserDefault 2 --
+-- End in InstallJavaJREBrowserSettings, return TRUE --
+** Start RegisterJavaWS v.1.6.0 (JAVA_HOME=C:\Program Files\Java\jre7) **
+** End WINAPI InstallJava **

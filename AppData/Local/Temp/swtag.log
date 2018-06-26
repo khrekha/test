@@ -1,0 +1,199 @@
+2018-05-21 16:17:05 [6036] SWTAG: _info_: __SWTAG_LOG_FILE__
+2018-05-21 16:17:05 [6036] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:17:05 [6036] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:17:05 [6036] SWTAG: _info_: ==========================================
+2018-05-21 16:17:05 [6036] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:17:05 [6036] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:17:05 [6036] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:17:05 [6036] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:17:05 [6036] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:17:05 [6036] SWTAG: _info_: ==========================================
+
+
+2018-05-21 16:17:06 [6036] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:17:06 [6036] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:17:06 [6036] SWTAG: _info_: ==========================================
+2018-05-21 16:17:06 [6036] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:17:06 [6036] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:17:06 [6036] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:17:06 [6036] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:17:06 [6036] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:17:06 [6036] SWTAG: _info_: ==========================================
+
+
+2018-05-21 16:20:04 [3628] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:20:04 [3628] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:20:04 [3628] SWTAG: _info_: ==========================================
+2018-05-21 16:20:04 [3628] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:20:04 [3628] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:20:04 [3628] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:20:04 [3628] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:20:04 [3628] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:20:04 [3628] SWTAG: _info_: ==========================================
+
+
+2018-05-21 16:20:05 [3628] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:20:05 [3628] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:20:05 [3628] SWTAG: _info_: ==========================================
+2018-05-21 16:20:05 [3628] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:20:05 [3628] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:20:05 [3628] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:20:05 [3628] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:20:05 [3628] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:20:05 [3628] SWTAG: _info_: ==========================================
+
+
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:23:34 [6096] SWTAG: _info_: ==========================================
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:23:34 [6096] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:23:34 [6096] SWTAG: _info_: ==========================================
+
+
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:23:34 [6096] SWTAG: _info_: ==========================================
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:23:34 [6096] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:23:34 [6096] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:23:34 [6096] SWTAG: _info_: ==========================================
+
+
+2018-05-21 16:50:22 [2164] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:50:22 [2164] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:50:22 [2164] SWTAG: _info_: ==========================================
+2018-05-21 16:50:22 [2164] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:50:22 [2164] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:50:22 [2164] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:50:22 [2164] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:50:22 [2164] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:50:22 [2164] SWTAG: _info_: ==========================================
+
+
+2018-05-21 16:50:23 [2164] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:50:23 [2164] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-21 16:50:23 [2164] SWTAG: _info_: ==========================================
+2018-05-21 16:50:23 [2164] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-21 16:50:23 [2164] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-21 16:50:23 [2164] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-21 16:50:23 [2164] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-21 16:50:23 [2164] SWTAG: _info_: End SWTAGGING
+2018-05-21 16:50:23 [2164] SWTAG: _info_: ==========================================
+
+
+2018-05-22 15:46:52 [5956] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:46:52 [5956] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:46:52 [5956] SWTAG: _info_: ==========================================
+2018-05-22 15:46:52 [5956] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 15:46:52 [5956] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 15:46:52 [5956] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 15:46:52 [5956] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 15:46:52 [5956] SWTAG: _info_: End SWTAGGING
+2018-05-22 15:46:52 [5956] SWTAG: _info_: ==========================================
+
+
+2018-05-22 15:46:55 [5956] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:46:55 [5956] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:46:55 [5956] SWTAG: _info_: ==========================================
+2018-05-22 15:46:55 [5956] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 15:46:55 [5956] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 15:46:55 [5956] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 15:46:55 [5956] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 15:46:55 [5956] SWTAG: _info_: End SWTAGGING
+2018-05-22 15:46:55 [5956] SWTAG: _info_: ==========================================
+
+
+2018-05-22 15:55:24 [3832] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:55:24 [3832] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:55:24 [3832] SWTAG: _info_: ==========================================
+2018-05-22 15:55:24 [3832] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 15:55:24 [3832] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 15:55:24 [3832] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 15:55:24 [3832] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 15:55:24 [3832] SWTAG: _info_: End SWTAGGING
+2018-05-22 15:55:24 [3832] SWTAG: _info_: ==========================================
+
+
+2018-05-22 15:55:25 [3832] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:55:25 [3832] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 15:55:25 [3832] SWTAG: _info_: ==========================================
+2018-05-22 15:55:25 [3832] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 15:55:25 [3832] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 15:55:25 [3832] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 15:55:25 [3832] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 15:55:25 [3832] SWTAG: _info_: End SWTAGGING
+2018-05-22 15:55:25 [3832] SWTAG: _info_: ==========================================
+
+
+2018-05-22 16:34:44 [6120] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 16:34:44 [6120] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 16:34:44 [6120] SWTAG: _info_: ==========================================
+2018-05-22 16:34:44 [6120] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 16:34:44 [6120] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 16:34:44 [6120] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 16:34:44 [6120] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 16:34:44 [6120] SWTAG: _info_: End SWTAGGING
+2018-05-22 16:34:44 [6120] SWTAG: _info_: ==========================================
+
+
+2018-05-22 16:34:45 [6120] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 16:34:45 [6120] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 16:34:45 [6120] SWTAG: _info_: ==========================================
+2018-05-22 16:34:45 [6120] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 16:34:45 [6120] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 16:34:45 [6120] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 16:34:45 [6120] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 16:34:45 [6120] SWTAG: _info_: End SWTAGGING
+2018-05-22 16:34:45 [6120] SWTAG: _info_: ==========================================
+
+
+2018-05-22 17:04:05 [5848] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 17:04:05 [5848] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 17:04:05 [5848] SWTAG: _info_: ==========================================
+2018-05-22 17:04:05 [5848] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 17:04:05 [5848] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 17:04:05 [5848] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 17:04:05 [5848] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 17:04:05 [5848] SWTAG: _info_: End SWTAGGING
+2018-05-22 17:04:05 [5848] SWTAG: _info_: ==========================================
+
+
+2018-05-22 17:04:06 [5848] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 17:04:06 [5848] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-22 17:04:06 [5848] SWTAG: _info_: ==========================================
+2018-05-22 17:04:06 [5848] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-22 17:04:06 [5848] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-22 17:04:06 [5848] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-22 17:04:06 [5848] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-22 17:04:06 [5848] SWTAG: _info_: End SWTAGGING
+2018-05-22 17:04:06 [5848] SWTAG: _info_: ==========================================
+
+
+2018-05-30 15:59:01 [6048] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-30 15:59:01 [6048] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-30 15:59:01 [6048] SWTAG: _info_: ==========================================
+2018-05-30 15:59:01 [6048] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-30 15:59:01 [6048] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-30 15:59:01 [6048] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-30 15:59:01 [6048] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-30 15:59:01 [6048] SWTAG: _info_: End SWTAGGING
+2018-05-30 15:59:01 [6048] SWTAG: _info_: ==========================================
+
+
+2018-05-30 15:59:03 [6048] SWTAG: _info_: Get privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-30 15:59:03 [6048] SWTAG: _info_: Set privilege info for "C:\Users\test\AppData\Local\Temp\swtag.log" returned 0
+2018-05-30 15:59:03 [6048] SWTAG: _info_: ==========================================
+2018-05-30 15:59:03 [6048] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC; licensingCode=Photoshop-CS7-Win-GM; locale=; caller=1
+2018-05-30 15:59:03 [6048] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2018-05-30 15:59:03 [6048] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2018-05-30 15:59:03 [6048] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_Photoshop-CS7-Win-GM.swidtag file
+2018-05-30 15:59:03 [6048] SWTAG: _info_: End SWTAGGING
+2018-05-30 15:59:03 [6048] SWTAG: _info_: ==========================================
+
+
